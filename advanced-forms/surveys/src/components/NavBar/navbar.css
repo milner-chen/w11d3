@@ -1,0 +1,26 @@
+#headerContainer {
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+img {
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}

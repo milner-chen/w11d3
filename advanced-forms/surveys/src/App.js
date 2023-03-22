@@ -7,7 +7,7 @@ import SampleSurvey from './components/SampleSurvey/SampleSurvey';
 function App() {
   return (
     <>
-      <h1>Hello From App!</h1>
+      {/* <h1>Hello From App!</h1> */}
       <NavBar />
       <Routes>
         <Route path="/SampleSurvey" element={<SampleSurvey/>}>
